@@ -27,7 +27,7 @@ Ongoing support and guided learning is available from Nigel via [Prescription Fr
 
 ## Existing Implementation
 
-There is not an existing implementation of this project at the moment but one is likely coming soon.
+There is no an existing implementation of this project at the moment but one is likely coming soon.
 
 ~~Rather than create your own implementation of this project, you may want to get involved in adding features to the existing implementation.~~
 
