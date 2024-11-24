@@ -21,7 +21,9 @@ You’ll create a widget that could be integrated with a website, providing a ta
 
 Choose whether to create your project using JavaScript or TypeScript.
 
-[More info coming soon]
+[More info coming soon as this practice project is developed]
+
+To learn what you need to complete this project, check out our [Courses and Resources](https://docs.prescriptionfree.academy/resources) page.
 
 Ongoing support and guided learning is available from Nigel via [Prescription Free Academy](https://prescriptionfree.academy/).
 
