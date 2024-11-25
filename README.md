@@ -3,7 +3,7 @@
 
 This repository is provided for students looking to work on a website widget providing live prices. It’s a small project but not simple to get it working well.
 
-It’s part of the [Trading Exchange Collaborative Learning Program](https://github.com/pecknigel/trading-exchange-collaborative-learning) from the [Prescription Free Academy of Web Development and Software Engineering](https://prescriptionfree.academy/)
+It’s part of the [Trading Exchange Collaborative Learning Program](https://github.com/pecknigel/trading-exchange-collaborative-learning) from the [Prescription Free Academy](https://prescriptionfree.academy/) of Web Development and Software Engineering.
 
 Technologies Used:
 
