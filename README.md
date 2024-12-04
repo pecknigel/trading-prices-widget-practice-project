@@ -1,3 +1,4 @@
+**This project is a working draft. It is not complete. Please make use of it. Feedback is appreciated.**
 
 # Trading Prices Widget Practice Project
 
