@@ -4,7 +4,7 @@
 
 This repository is provided for students looking to work on a website widget providing live prices. It’s a small project but not simple to get it working well.
 
-It’s part of the [Trading Exchange Collaborative Learning Program](https://github.com/pecknigel/trading-exchange-collaborative-learning) from the [Prescription Free Academy](https://prescriptionfree.academy/) of Web Development and Software Engineering.
+It’s part of the [Trading Exchange Collaborative Learning Program](https://github.com/pecknigel/trading-exchange-collaborative-learning).
 
 Technologies Used:
 
@@ -24,9 +24,9 @@ Choose whether to create your project using JavaScript or TypeScript.
 
 [More info coming soon as this practice project is developed]
 
-To learn what you need to complete this project, check out our [Courses and Resources](https://docs.prescriptionfree.academy/resources) page.
+To learn what you need to complete this project, check out our [Courses and Resources](https://library.peckn.net/resources) page.
 
-Ongoing support and guided learning is available from Nigel via [Prescription Free Academy](https://prescriptionfree.academy/).
+Ongoing support and guided learning is available from Nigel via [Preply](https://preply.com/en/tutor/4217857).
 
 ## Existing Implementation
 
